@@ -1,6 +1,6 @@
-Your Document Title
+Newton’s Method for Optimization
 ================
-Your Name
+Edgar Derricho
 
 # Introduction:
 
